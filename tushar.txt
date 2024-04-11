@@ -1,0 +1,8 @@
+arops.sh
+clargs.sh
+read0.sh
+read1.sh
+read.sh
+string.sh
+test.sh
+tushar.txt
