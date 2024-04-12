@@ -1,4 +1,4 @@
-echo "Shell program to find even or odd number"
+echo "Shell program to find even or odd number "
 
 echo "enter the number"
 read n
