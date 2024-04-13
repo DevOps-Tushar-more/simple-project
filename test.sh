@@ -1,3 +1,4 @@
+echo " My name is tushar"
 echo " Comments demo "
 echo " Two types of comments are there "
 echo " S LC starts.."
@@ -21,5 +22,5 @@ echo $name
 echo $c
 
 uname=$USER
-echo "The user name is : " $uname
+echo "The user name is : "   $uname
 echo "The current shell is: " $SHELL
