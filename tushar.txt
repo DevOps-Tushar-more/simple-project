@@ -6,4 +6,9 @@ read.sh
 string.sh
 test.sh
 tushar.txt
+
 this is the master branch...
+
+This is from main branch...
+hi my name is tushar
+
